@@ -1,0 +1,2348 @@
+[
+    {
+        "timestamp": "2021-08-29 02:05:34.984113",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 73.0
+    },
+    {
+        "timestamp": "2021-08-29 02:05:38.513170",
+        "location": "basement",
+        "temperature": 20.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:05:42.042295",
+        "location": "basement",
+        "temperature": 20.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:05:45.573211",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 73.0
+    },
+    {
+        "timestamp": "2021-08-29 02:05:49.103348",
+        "location": "basement",
+        "temperature": 20.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:05:52.633997",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 73.0
+    },
+    {
+        "timestamp": "2021-08-29 02:05:56.164550",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:05:59.695993",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:06:03.226910",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:06:06.757623",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:06:10.290928",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:06:17.353968",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:06:24.424213",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:06:27.956699",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:06:31.489192",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:06:38.552058",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:06:42.084214",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:06:45.616523",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:06:49.150543",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:06:52.682991",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:06:56.215718",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:06:59.749370",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:03.283232",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:06.819007",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:10.353607",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:13.888263",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:17.421586",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:20.952580",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:24.486967",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:28.020330",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:31.551354",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:35.087750",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:38.622563",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:42.154028",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:45.688498",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:49.223885",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:52.759738",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:56.295732",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:07:59.832119",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:10:29.159946",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:10:32.691706",
+        "location": "basement",
+        "temperature": 20.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:10:39.758134",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 73.0
+    },
+    {
+        "timestamp": "2021-08-29 02:10:43.294256",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:10:46.831078",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:10:50.366956",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:10:53.904808",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:10:57.441889",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:11:00.980347",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:11:04.518015",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:11:08.055947",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:11:11.594730",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:11:15.132423",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:11:22.204846",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:11:25.743461",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:11:29.282329",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:11:32.820930",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:11:39.895224",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:11:43.435102",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:11:46.974823",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:11:50.508201",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:11:54.049436",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:11:57.593653",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:12:01.133005",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:12:08.206583",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:12:11.747858",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:12:18.818073",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:12:22.356879",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:12:25.899742",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:12:32.969952",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:12:36.511853",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:12:40.054592",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:12:43.593655",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:12:47.134709",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:12:54.198219",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:12:57.740668",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:13:08.357755",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:13:11.901743",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:13:18.978774",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:13:22.519479",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:13:26.064102",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:13:29.608114",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:13:36.687398",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 72.0
+    },
+    {
+        "timestamp": "2021-08-29 02:13:40.232216",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:13:43.778193",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:13:50.851136",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 70.0
+    },
+    {
+        "timestamp": "2021-08-29 02:13:54.395998",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:13:57.939179",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:14:01.484999",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:14:05.031159",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:14:08.577655",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:14:12.124389",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:14:15.668018",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:14:22.747338",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:14:26.291381",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:14:29.841048",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:14:33.391650",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:14:36.939900",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:14:40.484504",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:14:44.031843",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:14:51.107635",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:14:54.655143",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:15:01.728691",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:15:05.265212",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:15:08.810612",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:15:12.359743",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:15:15.908244",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:15:19.444945",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:15:22.994224",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:15:30.071749",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:15:33.621102",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:15:40.700051",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:15:44.250251",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:15:47.799369",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:15:51.349553",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:15:54.898183",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:15:58.449086",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:16:05.529257",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:16:09.077172",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:16:12.628361",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:16:16.179521",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:16:26.788408",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:16:33.868795",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:16:40.949090",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:16:44.501048",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:16:48.056322",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:16:55.139167",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:16:58.689331",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:17:02.241140",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:17:05.779530",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:17:09.332752",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:17:12.882062",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:17:16.434318",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:17:19.987408",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:17:23.538589",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:17:30.626685",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:17:34.182109",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:17:37.736285",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:17:41.290671",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:17:44.844980",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:17:48.399296",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:17:51.954329",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:17:55.509185",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:17:59.059543",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:18:06.144239",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:18:09.693479",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:18:13.249148",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:18:16.804985",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:18:20.354269",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:18:23.905091",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:18:27.461349",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:18:31.018321",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:18:34.574864",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:18:38.131936",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:18:41.689000",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:18:45.245725",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:18:48.804439",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:18:52.358625",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:18:55.916488",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:18:59.466872",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:19:06.550558",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:19:10.105325",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:19:13.664416",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:19:27.814758",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:19:31.369545",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:19:34.926233",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:19:38.481862",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:19:42.035054",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:19:56.184837",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:19:59.742975",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:20:03.298403",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:20:06.851312",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:20:10.411816",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:20:13.974228",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:20:17.528911",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:20:21.089601",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:20:24.645888",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:20:31.729940",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:20:35.272046",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:20:42.361206",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:20:45.922720",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:20:49.484027",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:20:53.047722",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:21:00.138293",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:21:07.234824",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:21:10.797313",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:21:14.353983",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:21:17.908479",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:21:21.473009",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:21:25.036494",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:21:28.595279",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:21:32.159171",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:21:35.702214",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:21:39.265071",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:21:42.829294",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:21:53.450048",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:22:00.535925",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:22:04.095854",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:22:07.658468",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:22:11.221139",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:22:14.780990",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:22:18.344130",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:22:21.905354",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:22:25.470501",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:22:29.036682",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:22:36.124945",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:22:39.693833",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:22:43.262322",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:22:50.358983",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:23:00.996421",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:23:04.566202",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:23:08.135915",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:23:11.704056",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:23:15.272985",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:23:22.367635",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:23:25.936731",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:23:29.496920",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:23:33.058354",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:23:40.164017",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:23:43.726156",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:23:47.284387",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:23:54.358265",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:24:01.455023",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:24:05.018943",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:24:08.581620",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:24:12.153958",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:24:15.715054",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:24:26.340342",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:24:29.903386",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:24:33.473996",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:24:37.039058",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:24:44.131612",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:24:47.701914",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:24:51.275530",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:24:54.846781",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:24:58.417734",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:25:01.989680",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:25:05.555157",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:25:09.130102",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:25:12.696557",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:25:16.261762",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:25:23.360555",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:25:30.461707",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:25:37.568458",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:25:41.139779",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:25:44.706857",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:25:51.808735",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:25:55.384021",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:25:58.947843",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:26:02.521365",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:26:06.084673",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:26:09.659629",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:26:13.225673",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:26:20.318665",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:26:27.415080",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:26:38.059336",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:26:41.636182",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:26:45.203633",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:26:52.301095",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:26:55.878784",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:26:59.454199",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:27:03.023346",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:27:06.589731",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:27:10.160989",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:27:13.726697",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:27:17.302815",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:27:20.851246",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:27:24.421732",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:27:27.989248",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:27:35.103059",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:27:38.672950",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:27:42.243917",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:27:45.808888",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:27:52.903591",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:27:56.470383",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:28:00.048824",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:28:07.153297",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:28:10.725607",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:28:14.295386",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:28:17.864794",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:28:24.973354",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:28:28.554089",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:28:32.123822",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:28:35.694854",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:28:39.272588",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:28:42.844391",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:28:46.417413",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:28:49.991378",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:28:57.093192",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:29:00.674986",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:29:04.270784",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:29:07.841852",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:29:11.414580",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:29:18.518409",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:29:29.151756",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:29:39.802220",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:29:43.386442",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:29:50.495283",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:29:54.064504",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:29:57.640627",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:30:01.224851",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:30:08.334919",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:30:11.920130",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:30:15.488802",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:30:19.064661",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:30:26.173653",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:30:29.745156",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:30:36.857887",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:30:40.435060",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:30:47.554329",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:30:51.120374",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:30:54.691628",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:30:58.273828",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:31:01.850874",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:31:08.931223",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:31:12.507336",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:31:16.093308",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:31:19.666270",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:31:23.239520",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:31:26.812209",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:31:30.384703",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:31:33.959745",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:31:37.538956",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:31:41.124351",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:31:44.696280",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:31:48.283154",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:31:51.871373",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:31:58.996993",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:32:02.583935",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:32:06.173383",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:32:09.762382",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:32:13.342951",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:32:16.931887",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:32:20.486229",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 70.0
+    },
+    {
+        "timestamp": "2021-08-29 02:32:24.070763",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:32:27.646531",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:32:34.755116",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:32:38.337280",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:32:41.913620",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:32:45.496689",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:32:49.086157",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:32:52.668354",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:32:56.250401",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:32:59.841245",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:33:06.965567",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:33:10.544136",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:33:14.118531",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:33:17.710270",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:33:24.824805",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:33:28.379366",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 70.0
+    },
+    {
+        "timestamp": "2021-08-29 02:33:35.484972",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:33:39.063060",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:33:42.655769",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:33:46.232194",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:33:53.344936",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:34:00.464996",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:34:04.048907",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:34:07.627163",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:34:11.205828",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:34:14.790057",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:34:18.368704",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:34:21.953643",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:34:25.544964",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:34:29.124995",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:34:36.246788",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:34:39.828269",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:34:43.415049",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:34:54.064618",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:34:57.646711",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:35:01.225783",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:35:08.345455",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:35:11.923578",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:35:15.501135",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:35:19.096299",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:35:22.684088",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:35:26.267341",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:35:29.864056",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:35:33.445678",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:35:37.038126",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:35:40.618454",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:35:44.174266",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:35:47.754589",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:35:51.360583",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:35:58.481236",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:36:02.062001",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:36:05.619462",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:36:09.199417",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:36:19.848786",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:36:23.435997",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:36:27.017503",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:36:30.608674",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    },
+    {
+        "timestamp": "2021-08-29 02:36:34.214572",
+        "location": "basement",
+        "temperature": 21.0,
+        "humidity": 71.0
+    }
+]
