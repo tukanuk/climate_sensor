@@ -1,7 +1,7 @@
 import Adafruit_DHT
 import time
 import sys
-from datetime import datetime
+from datetime import datetime, timezone
 import json
 
 DHT_SENSOR = Adafruit_DHT.DHT11
@@ -13,6 +13,8 @@ args = [arg for arg in sys.argv[1:] if not arg.startswith("-")]
 if "-l" in opts:
     location = args[0]
     print(f"The location is: {location}")
+else:
+    location = "unknown"
 
 print(opts)
 print(args)
@@ -30,7 +32,7 @@ def write_json(new_record, filename="climate_data.json"):
 class ClimateRecord:
 
     def __init__(self, location, temperature, humidity):
-        self.timestamp = datetime.now()
+        self.timestamp = datetime.now(timezone.utc)
         self.location = location
         self.temperature = temperature
         self.humidity = humidity
@@ -48,9 +50,12 @@ while True:
     if humidity is not None and temperature is not None:
         # print(f"Temp={temperature}C Humidity={humidity:0.1f}%")
         temp = ClimateRecord(location, temperature, humidity) 
-        ClimateRecords.append(temp)
+        
+        # No need to create a list right now
+        # ClimateRecords.append(temp)
+
         temp.output()
-        print(temp.json())
+        # print(temp.json())
         write_json(temp.json())
 
     else:
