@@ -31,7 +31,7 @@ def write_json(new_record, filename="climate_data.json"):
 
 def postData(jsonRecord):
 
-    url = "http://127.0.0.1:5000/climate"
+    url = "http://benintosh.local:5000/climate"
 
     payload = json.dumps(jsonRecord)
     headers = {
