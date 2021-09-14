@@ -3,6 +3,7 @@ import time
 import sys
 from datetime import datetime, timezone
 import json
+import requests
 
 DHT_SENSOR = Adafruit_DHT.DHT11
 DHT_PIN = 4
@@ -27,6 +28,20 @@ def write_json(new_record, filename="climate_data.json"):
         file_data.append(new_record)
         fp.seek(0)
         json.dump(file_data, fp, indent=4)
+
+def postData(jsonRecord):
+
+    url = "http://benintosh.local:5000/climate"
+
+    payload = json.dumps(jsonRecord)
+    headers = {
+    'Content-Type': 'application/json'
+    }
+
+    response = requests.request("POST", url, headers=headers, data=payload)
+
+    print(response.text)
+
         
 
 class ClimateRecord:
@@ -54,6 +69,10 @@ while True:
         # No need to create a list right now
         # ClimateRecords.append(temp)
 
+        # POST data to API
+        postData(temp.json())
+
+        # write data to file
         temp.output()
         # print(temp.json())
         write_json(temp.json())
