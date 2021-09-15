@@ -40,7 +40,7 @@ def postData(jsonRecord):
 
     response = requests.request("POST", url, headers=headers, data=payload)
 
-    print(response.text)
+    print(f"{response.status_code}: {response.text}")
 
         
 
