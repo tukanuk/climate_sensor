@@ -1,24 +1,32 @@
+from logging import DEBUG
 import Adafruit_DHT
 import time
 import sys
 from datetime import datetime, timezone
 import json
 import requests
+import simplelogging
 
 DHT_SENSOR = Adafruit_DHT.DHT11
 DHT_PIN = 4
+
+# Setup the logging
+log = simplelogging.get_logger(logger_level=simplelogging.DEBUG, console=True, console_level=simplelogging.INFO, file_name="log/climate.log", file_level=DEBUG)
+log.info("Staring logging")
+
 
 opts = [opt for opt in sys.argv[1:] if opt.startswith("-")]
 args = [arg for arg in sys.argv[1:] if not arg.startswith("-")]
 
 if "-l" in opts:
     location = args[0]
-    print(f"The location is: {location}")
+    log.info(f"The location is: {location}")
 else:
     location = "unknown"
+    log.info(f"The location is: {location}")
 
-print(opts)
-print(args)
+# print(opts)
+# print(args)
 
 ClimateRecords = []
 
@@ -40,7 +48,7 @@ def postData(jsonRecord):
 
     response = requests.request("POST", url, headers=headers, data=payload)
 
-    print(f"{response.status_code}: {response.text}")
+    log.info(f"{response.status_code}: {response.text}")
 
         
 
