@@ -1,0 +1,10 @@
+#custom
+venv/
+.vscode/
+.pytest_cache/
+.ipynb_checkpoints/
+<<<<<<< HEAD
+*.bak
+=======
+climate_data.json
+>>>>>>> 78a67398ac26d4111f1a29746444cd873b598522
