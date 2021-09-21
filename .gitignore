@@ -6,3 +6,4 @@ venv/
 log/
 climate_data.json
 *.bak
+log/
