@@ -83,10 +83,10 @@ while True:
         postData(temp.json())
 
         # write data to file
-        temp.output()
+        log.info(temp.output())
         # print(temp.json())
         write_json(temp.json())
 
     else:
-        print("Sensor failure. Check wiring.")
+        log.error(("Sensor failure. Check wiring."))
     time.sleep(10)

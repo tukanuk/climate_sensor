@@ -3,5 +3,6 @@ venv/
 .vscode/
 .pytest_cache/
 .ipynb_checkpoints/
+log/
 climate_data.json
 *.bak
