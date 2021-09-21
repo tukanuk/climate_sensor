@@ -51,10 +51,10 @@ def postData(jsonRecord):
 
     try:
         response = requests.request("POST", url, headers=headers, data=payload)
+        log.info(f"{response.status_code}: {response.text}")
     except requests.exceptions.ConnectionError as err:
         log.error(f"Request error: {err}")
 
-    log.info(f"{response.status_code}: {response.text}")
 
 
 class ClimateRecord:
