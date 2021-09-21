@@ -49,7 +49,10 @@ def postData(jsonRecord):
         'Content-Type': 'application/json'
     }
 
-    response = requests.request("POST", url, headers=headers, data=payload)
+    try:
+        response = requests.request("POST", url, headers=headers, data=payload)
+    except requests.exceptions.ConnectionError as err:
+        log.error(f"Request error: {err}")
 
     log.info(f"{response.status_code}: {response.text}")
 
