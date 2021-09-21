@@ -63,7 +63,7 @@ class ClimateRecord:
         self.humidity = humidity
 
     def output(self):
-        print(
+        return (
             f"Time: {self.timestamp}, Location: {self.location}, Temp: {self.temperature}C, Humidity: {self.humidity}%")
 
     def json(self):
