@@ -11,7 +11,8 @@ DHT_SENSOR = Adafruit_DHT.DHT11
 DHT_PIN = 4
 
 # Setup the logging
-log = simplelogging.get_logger(logger_level=simplelogging.DEBUG, console=True, console_level=simplelogging.INFO, file_name="log/climate.log", file_level=DEBUG)
+log = simplelogging.get_logger(logger_level=simplelogging.DEBUG, console=True,
+                               console_level=simplelogging.INFO, file_name="log/climate.log", file_level=DEBUG)
 log.info("Staring logging")
 
 
@@ -30,6 +31,7 @@ else:
 
 ClimateRecords = []
 
+
 def write_json(new_record, filename="climate_data.json"):
     with open(filename, "r+") as fp:
         file_data = json.load(fp)
@@ -37,20 +39,20 @@ def write_json(new_record, filename="climate_data.json"):
         fp.seek(0)
         json.dump(file_data, fp, indent=4)
 
+
 def postData(jsonRecord):
 
-    url = "http://benintosh.local:5000/climate"
+    url = "http://benintosh.local:2320/climate"
 
     payload = json.dumps(jsonRecord)
     headers = {
-    'Content-Type': 'application/json'
+        'Content-Type': 'application/json'
     }
 
     response = requests.request("POST", url, headers=headers, data=payload)
 
     log.info(f"{response.status_code}: {response.text}")
 
-        
 
 class ClimateRecord:
 
@@ -61,19 +63,19 @@ class ClimateRecord:
         self.humidity = humidity
 
     def output(self):
-        print(f"Time: {self.timestamp}, Location: {self.location}, Temp: {self.temperature}C, Humidity: {self.humidity}%")
-    
+        print(
+            f"Time: {self.timestamp}, Location: {self.location}, Temp: {self.temperature}C, Humidity: {self.humidity}%")
+
     def json(self):
         return({"timestamp": str(self.timestamp), "location": self.location, "temperature": self.temperature, "humidity": self.humidity})
 
 
- 
 while True:
     humidity, temperature = Adafruit_DHT.read(DHT_SENSOR, DHT_PIN)
     if humidity is not None and temperature is not None:
         # print(f"Temp={temperature}C Humidity={humidity:0.1f}%")
-        temp = ClimateRecord(location, temperature, humidity) 
-        
+        temp = ClimateRecord(location, temperature, humidity)
+
         # No need to create a list right now
         # ClimateRecords.append(temp)
 
@@ -86,6 +88,5 @@ while True:
         write_json(temp.json())
 
     else:
-        print("Sensor failure. Check wiring.");
-    time.sleep(10);
- 
+        print("Sensor failure. Check wiring.")
+    time.sleep(10)
