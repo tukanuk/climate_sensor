@@ -6,6 +6,7 @@ from datetime import datetime, timezone
 import json
 import requests
 import simplelogging
+import settings
 
 DHT_SENSOR = Adafruit_DHT.DHT11
 DHT_PIN = 4
@@ -42,7 +43,7 @@ def write_json(new_record, filename="climate_data.json"):
 
 def postData(jsonRecord):
 
-    url = "http://benintosh.local:2320/climate"
+    url = settings.api_url
 
     payload = json.dumps(jsonRecord)
     headers = {
