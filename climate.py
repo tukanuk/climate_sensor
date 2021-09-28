@@ -1,5 +1,6 @@
-from logging import DEBUG
+# from logging import DEBUG
 import Adafruit_DHT
+import adafruit_dht
 import time
 import sys
 from datetime import datetime, timezone
