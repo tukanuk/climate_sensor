@@ -1,6 +1,4 @@
-# from logging import DEBUG
 import Adafruit_DHT
-# import adafruit_dht
 import time
 import sys
 from datetime import datetime, timezone
@@ -10,6 +8,7 @@ import simplelogging
 import settings
 from ClimateRecord import ClimateRecord
 
+# Variables for GPIO pins on RaspberrryPi
 DHT_SENSOR = Adafruit_DHT.DHT11
 DHT_PIN = 4
 
@@ -19,6 +18,7 @@ log = simplelogging.get_logger(logger_level=simplelogging.DEBUG, console=True,
 log.info("Staring logging")
 
 
+# Handle command args
 opts = [opt for opt in sys.argv[1:] if opt.startswith("-")]
 args = [arg for arg in sys.argv[1:] if not arg.startswith("-")]
 
@@ -36,6 +36,7 @@ ClimateRecords = []
 
 
 def write_json(new_record, filename="climate_data.json"):
+    """Keep a local log of climate data"""
     with open(filename, "r+") as fp:
         file_data = json.load(fp)
         file_data.append(new_record)
@@ -92,5 +93,6 @@ while True:
         write_json(temp.json())
 
     else:
-        log.error(("Sensor failure. Check wiring."))
+        log.error(
+            (f"Sensor failure. Check wiring. t: {temperature} h: {humidity}"))
     time.sleep(10)
