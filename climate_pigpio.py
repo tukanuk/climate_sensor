@@ -10,14 +10,14 @@ import simplelogging
 import settings
 from pigpio_dht import DHT11
 
-DHT_SENSOR = DHT11(4)
+DHT_SENSOR = DHT11(4, timeout_secs=1.0)
 # DHT_SENSOR = Adafruit_DHT.DHT11
 DHT_PIN = 4
 
 
 # Setup the logging
 log = simplelogging.get_logger(logger_level=simplelogging.DEBUG, console=True,
-                               console_level=simplelogging.INFO, file_name="log/climate.log", file_level=DEBUG)
+                               console_level=simplelogging.INFO, file_name="log/climate.log", file_level=simplelogging.DEBUG)
 log.info("Staring logging")
 
 
@@ -80,12 +80,12 @@ class ClimateRecord:
 
 while True:
     # humidity, temperature = Adafruit_DHT.read(DHT_SENSOR, DHT_PIN)
-    temp_json = DHT_SENSOR.read()
+    temp_json = DHT_SENSOR.read(retries=5)
     print(f"New lib: {temp_json}")
-    if temp_json['humidity'] is not None and temp_json['temperature'] is not None:
+    if temp_json['valid'] is True:
     # if humidity is not None and temperature is not None:
         # print(f"Temp={temperature}C Humidity={humidity:0.1f}%")
-        temp = ClimateRecord(location, temp_json['temperature'], temp_json['humidity'])
+        temp = ClimateRecord(location, temp_json['temp_c'], temp_json['humidity'])
 
         # No need to create a list right now
         # ClimateRecords.append(temp)
