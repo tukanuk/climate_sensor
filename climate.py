@@ -1,6 +1,4 @@
-# from logging import DEBUG
 import Adafruit_DHT
-import adafruit_dht
 import time
 import sys
 from datetime import datetime, timezone
@@ -8,16 +6,19 @@ import json
 import requests
 import simplelogging
 import settings
+from ClimateRecord import ClimateRecord
 
+# Variables for GPIO pins on RaspberrryPi
 DHT_SENSOR = Adafruit_DHT.DHT11
 DHT_PIN = 4
 
 # Setup the logging
 log = simplelogging.get_logger(logger_level=simplelogging.DEBUG, console=True,
-                               console_level=simplelogging.INFO, file_name="log/climate.log", file_level=DEBUG)
+                               console_level=simplelogging.INFO, file_name="log/climate.log", file_level=simplelogging.DEBUG)
 log.info("Staring logging")
 
 
+# Handle command args
 opts = [opt for opt in sys.argv[1:] if opt.startswith("-")]
 args = [arg for arg in sys.argv[1:] if not arg.startswith("-")]
 
@@ -35,6 +36,7 @@ ClimateRecords = []
 
 
 def write_json(new_record, filename="climate_data.json"):
+    """Keep a local log of climate data"""
     with open(filename, "r+") as fp:
         file_data = json.load(fp)
         file_data.append(new_record)
@@ -58,22 +60,20 @@ def postData(jsonRecord):
         log.error(f"Request error: {err}")
 
 
+# class ClimateRecord:
 
-class ClimateRecord:
+#     def __init__(self, location, temperature, humidity):
+#         self.timestamp = datetime.now(timezone.utc)
+#         self.location = location
+#         self.temperature = temperature
+#         self.humidity = humidity
 
-    def __init__(self, location, temperature, humidity):
-        self.timestamp = datetime.now(timezone.utc)
-        self.location = location
-        self.temperature = temperature
-        self.humidity = humidity
+#     def output(self):
+#         return (
+#             f"Time: {self.timestamp}, Location: {self.location}, Temp: {self.temperature}C, Humidity: {self.humidity}%")
 
-    def output(self):
-        return (
-            f"Time: {self.timestamp}, Location: {self.location}, Temp: {self.temperature}C, Humidity: {self.humidity}%")
-
-    def json(self):
-        return({"timestamp": str(self.timestamp), "location": self.location, "temperature": self.temperature, "humidity": self.humidity})
-
+#     def json(self):
+#         return({"timestamp": str(self.timestamp), "location": self.location, "temperature": self.temperature, "humidity": self.humidity})
 
 while True:
     humidity, temperature = Adafruit_DHT.read(DHT_SENSOR, DHT_PIN)
@@ -93,5 +93,6 @@ while True:
         write_json(temp.json())
 
     else:
-        log.error(("Sensor failure. Check wiring."))
+        log.error(
+            (f"Sensor failure. Check wiring. t: {temperature} h: {humidity}"))
     time.sleep(10)

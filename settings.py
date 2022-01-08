@@ -5,4 +5,4 @@ load_dotenv()
 
 api_url = os.getenv("API_URL")
 
-print(api_url)
+# print(api_url)
